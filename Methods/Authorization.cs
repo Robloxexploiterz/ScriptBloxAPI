@@ -4,7 +4,7 @@ using ScriptBloxAPI.Backend_Functions;
 using System.Threading.Tasks;
 
 namespace ScriptBloxAPI.Methods
-{a
+{
     public class Authorization
     {
         #region Non Async
